@@ -79,8 +79,6 @@ LIBSVM: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 Journal of Machine Learning Reseaerch: http://jmlr.org/papers/v17/14-148.html
 
 
-Our Matlab codes for all experiments in the research paper:
-
 Our follow-up research in online multiple kernel learning: 
 
 
